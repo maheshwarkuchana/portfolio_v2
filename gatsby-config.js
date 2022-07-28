@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Maheshwar Kuchana',
+    title: 'Maheshwar Kuchana | Machine Learning Engineer',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Maheshwar Kuchana is a Skilled ML Engineer with expertise in designing and developing computer vision systems. Professional in popular ML frameworks.',
     siteUrl: 'https://maheshwark.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',

@@ -1,4 +1,5 @@
 export { default as IconAppStore } from './appstore';
+export { default as IconStackOverflow } from './stackoverflow';
 export { default as IconBookmark } from './bookmark';
 export { default as IconCodepen } from './codepen';
 export { default as IconExternal } from './external';
