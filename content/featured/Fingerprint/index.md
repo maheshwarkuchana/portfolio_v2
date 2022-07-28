@@ -3,7 +3,6 @@ date: '3'
 title: 'Fingerprint Matching - An Experimental Approach'
 cover: './demo.png'
 external: 'https://www.ijraset.com/fileserve.php?FID=29769'
-cta: 'https://www.ijraset.com/fileserve.php?FID=29769'
 tech:
   - Fingerprint Analysis
   - ML

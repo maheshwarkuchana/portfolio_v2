@@ -2,7 +2,6 @@
 date: '2'
 title: 'AI aiding in diagnosing, tracking recovery of COVID-19 on Chest CT scans'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://link.springer.com/article/10.1007/s11042-020-10010-8'
 tech:
   - Covid-19

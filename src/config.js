@@ -1,5 +1,9 @@
 module.exports = {
+  title: 'Maheshwar Kuchana | Machine Learning Engineer',
+  description: 'Maheshwar Kuchana is a Skilled ML Engineer with expertise in designing and developing computer vision systems. Professional in popular ML frameworks.',
   email: 'kmaheshwar1998@gmail.com',
+  siteKeywords: 'Maheshwar Kuchana, Maheshwar, Kuchana, maheshwark, AI engineer, deep learning engineer, machine learning engineer, computer vision, bml munjal university, kings college london, london, kcl, flask, warangal, image processing, healthcare technologies, asos, emoodie, adventum, scienaptic',
+  siteUrl: 'https://maheshwark.com',
 
   socialMedia: [
     {

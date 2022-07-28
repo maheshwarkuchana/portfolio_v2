@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Maheshwar Kuchana | Machine Learning Engineer',
-    description:
-      'Maheshwar Kuchana is a Skilled ML Engineer with expertise in designing and developing computer vision systems. Professional in popular ML frameworks.',
-    siteUrl: 'https://maheshwark.com', // No trailing slash allowed!
+    title: config.title,
+    description: config.description,
+    siteUrl: config.siteUrl, // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@kmaheshwar1998',
+    keywords: config.siteKeywords,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -152,7 +152,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-45666519-2',
+        trackingId: 'UA-137579188-4',
       },
     },
   ],

@@ -2,7 +2,6 @@
 date: '1'
 title: 'Machine learning predicts live-birth occurrence before IVF treatment'
 cover: './IVF.png'
-github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://www.nature.com/articles/s41598-020-76928-z'
 tech:
   - Machine Learning
