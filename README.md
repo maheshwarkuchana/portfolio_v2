@@ -1,11 +1,11 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/maheshwarkuchana/portfolio_v2/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   maheshwark.com - v2
 </h1>
 <p align="center">
-  The second version of <a href="https://brittanychiang.com" target="_blank">maheshwark.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The second version of <a href="https://maheshwark.com" target="_blank">maheshwark.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   Previous iterations:
