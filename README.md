@@ -17,7 +17,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/maheshwark/portfolio_v2/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/maheshwarkuchana/portfolio_v2/main/src/images/demo.png)
 
 ### TL;DR
 
