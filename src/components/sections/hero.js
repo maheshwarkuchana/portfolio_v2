@@ -64,8 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Skilled ML Engineer with expertise in designing and developing computer vision systems.
-        Professional in popular ML frameworks. Adept in researching and architecting AI models.
+        I’m a Professional ML Engineer with expertise in designing and developing various ML
+        systems. Expert in popular ML and MLOps frameworks. Adept in researching and architecting AI
+        models.
       </p>
     </>
   );
@@ -74,7 +75,8 @@ const Hero = () => {
       className="email-link"
       href="https://www.linkedin.com/in/maheshwarkuchana"
       target="_blank"
-      rel="noreferrer">
+      rel="noreferrer"
+    >
       Connect on LinkedIn!
     </a>
   );

@@ -125,7 +125,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Machine Learning', 'Python', 'Computer Vision', 'Deep Learning', 'AWS', 'Azure'];
+  const skills = [
+    'Machine Learning',
+    'Python',
+    'Computer Vision',
+    'Deep Learning',
+    'AWS',
+    'Microsoft Azure',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,24 +142,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            I’m Maheshwar, worked in the field of Machine Learning for 2 years and recently
-            moved to London for pursuing a master’s degree at <a href="https://www.kcl.ac.uk">King's College London</a>.
-            I worked in healthcare and fintech domains earlier. I started my career at a startup where
-            we developed an AI-based diagnostic platform for retinal diseases where my role was quite versatile i.e.,
-            I was involved in the entire ML pipeline starting from the data collection till model deployment.
+              I’m Maheshwar, worked in the field of Machine Learning for 2 years and recently moved
+              to London for pursuing a master’s degree at{' '}
+              <a href="https://www.kcl.ac.uk">King's College London</a>. I worked in healthcare and
+              fintech domains earlier. I started my career at a startup where we developed an
+              AI-based diagnostic platform for retinal diseases where my role was quite versatile
+              i.e., I was involved in the entire ML pipeline starting from the data collection till
+              model deployment.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://emoodie.com/">few startups</a>,{' '}
-              <a href="https://www.scienaptic.ai/">a MNC</a>,{' '}
-              <a href="https://www.asos.com/">and joining a popular fashion retailer in UK</a>. My
-              main focus these days is building ML pipelines for organisations.
+              <a href="https://www.scienaptic.ai/">a MNC</a>, and currently working at{' '}
+              <a href="https://www.asos.com/">ASOS</a>, the popular fashion retailer in UK. My main
+              focus these days is building ML pipelines for organisations.
             </p>
 
             <p>
-            With a passion in AI and ML, I didn’t just work for companies but carried out my own research
-            works and projects and published three of my research papers.
+              With a passion in AI and ML, I didn’t just work for companies but carried out my own
+              research works and projects and published three of my research papers.
             </p>
 
             <p>Here are a few technologies I’ve been working with (find details in Resume):</p>
