@@ -29,10 +29,11 @@
    npm install -g gatsby-cli
    ```
 
-2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+2. Install and use Node 18 with [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
-   nvm install
+   nvm install 18
+   nvm use 18
    ```
 
 3. Install dependencies
