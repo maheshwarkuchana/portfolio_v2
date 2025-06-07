@@ -66,7 +66,7 @@
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
 | Navy           | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) `#0a192f` |
-| Light Navy     | ![#112240](https://via.placeholder.com/10/0a192f?text=+) `#112240` |
+| Light Navy     | ![#112240](https://via.placeholder.com/10/112240?text=+) `#112240` |
 | Lightest Navy  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
 | Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
 | Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
