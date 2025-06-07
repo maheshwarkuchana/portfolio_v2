@@ -3,6 +3,9 @@
 node_modules
 yarn-error.log
 package-lock.json
+.pnp.cjs
+.pnp.loader.mjs
+.yarn
 
 # Build directory
 /public
